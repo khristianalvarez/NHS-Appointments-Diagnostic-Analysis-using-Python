@@ -1,4 +1,4 @@
-# NHS Appointments Diagnostic Analysis
+# Diagnostic Analysis using Python
 
 ### Topics Covered:
 
