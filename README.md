@@ -1,4 +1,4 @@
-# NHS Appointment Analysis
+# NHS Appointments Diagnostic Analysis
 
 ### Topics Covered:
 
